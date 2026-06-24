@@ -37,7 +37,6 @@ The website focuses on delivering a seamless browsing experience across all devi
 * Git
 * GitHub
 * Hostinger
-* Communicator
 
 ---
 
@@ -51,6 +50,7 @@ As the developer of this project, I was responsible for:
 * Website Optimization
 * Git & GitHub Version Control
 * Deployment and Hosting Support
+* Communicator
 
 ---
 
@@ -70,7 +70,7 @@ As the developer of this project, I was responsible for:
 <img src="screenshots/dishes_images.png" width="50%" alt="Dishes">
 <img src="screenshots/footer.png" width="50%" alt="Footer">
 
-for more screenshots, visit screenshots folder or visit the website link given below
+'for more screenshots, visit screenshots folder or visit the website link given below'
 
 ---
 
