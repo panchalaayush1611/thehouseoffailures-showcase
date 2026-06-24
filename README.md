@@ -65,7 +65,7 @@ As the developer of this project, I was responsible for:
 
 ## 📸 Screenshots
 
-<img src="screenshots/hero_page.png" width="100%" alt="Hero Section">
+<img src="screenshots/hero_page.png" width="40%" alt="Hero Section">
 
 ---
 
