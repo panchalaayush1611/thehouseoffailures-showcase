@@ -66,6 +66,9 @@ As the developer of this project, I was responsible for:
 ## 📸 Screenshots
 
 <img src="screenshots/hero_page.png" width="40%" alt="Hero Section">
+<img src="screenshots/location.png" width="40%" alt="location image">
+<img src="screenshots/dishes_images.png" width="100%" alt="Dishes">
+<img src="screenshots/footer.png" width="100%" alt="Footer">
 
 ---
 
@@ -78,7 +81,9 @@ https://thehouseoffailures.com
 ## ☎️ Contact Me
 
 Name : Aayush Panchal
+
 E-Mail : panchalaayush1511@gmail.com
+
 LinkedIN : https://www.linkedin.com/in/aayush-panchal-36742122b/
 
 ## 📝 Note
