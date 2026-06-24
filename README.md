@@ -4,9 +4,10 @@
 
 THIS IS A CLIENT WORK, SO FOR THAT REASON SOURCE CODE IS KEPT PRIVATE, YOU CAN CHECK SCREENSHOTS, INFORMATION AND LIVE LINK!
 
+---
+
 A modern and responsive restaurant website developed for a real client to establish a strong online presence and provide customers with an engaging digital experience.
 
----
 
 ## 🌐 Live Website
 
