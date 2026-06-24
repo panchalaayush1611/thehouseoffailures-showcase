@@ -65,7 +65,7 @@ As the developer of this project, I was responsible for:
 
 ## 📸 Screenshots
 
-Add project screenshots here.
+![Hero](screenshots/hero_page.png)
 
 ---
 
